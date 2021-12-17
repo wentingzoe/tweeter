@@ -16,11 +16,17 @@ This repository is the starter code for the project: Students will fork and clon
 
 ### Other Features
 * Box shadow and icon colors change on hover:
+
 ![shadw](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/boxshodw.gif?raw=true)
-* Sticky navigation bar & Form toggle
+
+* Sticky navigation bar & Form toggle:
+
 ![sticky](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/wt.gif)
+
 * Back to top toggle
+
 ![backtotop](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/backtop.gif)
+
 
 ## Getting Started
 
