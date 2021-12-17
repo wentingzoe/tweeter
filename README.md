@@ -6,21 +6,21 @@ This repository is the starter code for the project: Students will fork and clon
 ## Final Work:
 
 ### Small size secreen design
-[!Smallsizesecreen](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/sm.gif?raw=true)
+![Smallsizesecreen](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/sm.gif?raw=true)
 
 ### Large size secreen design
-[!largescreen](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/ls.gif)
+![largescreen](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/ls.gif)
 
 ### Error Message (with character counter)
-[!error](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/error.gif)
+![error](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/error.gif)
 
 ### Other Features
 * Box shadow and icon colors change on hover:
-[!shadw](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/boxshodw.gif?raw=true)
+![shadw](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/boxshodw.gif?raw=true)
 * Sticky navigation bar & Form toggle
-[!sticky](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/wt.gif)
+![sticky](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/wt.gif)
 * Back to top toggle
-[!backtotop](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/backtop.gif)
+![backtotop](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/backtop.gif)
 
 ## Getting Started
 
