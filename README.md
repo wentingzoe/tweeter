@@ -6,9 +6,11 @@ This repository is the starter code for the project: Students will fork and clon
 ## Final Work:
 
 ### Small size secreen design
+![sm-img](https://github.com/wentingzoe/tweeter/blob/master/doc/smallscreen.png)
 ![Smallsizesecreen](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/sm.gif?raw=true)
 
 ### Large size secreen design
+![la-img](https://github.com/wentingzoe/tweeter/blob/master/doc/Desktop.png)
 ![largescreen](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/ls.gif)
 
 ### Error Message (with character counter)
