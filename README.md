@@ -6,18 +6,21 @@ This repository is the starter code for the project: Students will fork and clon
 ## Final Work:
 
 ### Small size secreen design
-[!Smallsizesecreen]
+[!Smallsizesecreen](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/sm.gif?raw=true)
+
 ### Large size secreen design
-[!largescreen]
+[!largescreen](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/ls.gif)
+
 ### Error Message (with character counter)
-[!error]
+[!error](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/error.gif)
+
 ### Other Features
 * Box shadow and icon colors change on hover:
-[!shadw]
+[!shadw](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/boxshodw.gif?raw=true)
 * Sticky navigation bar & Form toggle
-[!sticky]
+[!sticky](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/wt.gif)
 * Back to top toggle
-[!backtotop]
+[!backtotop](https://github.com/wentingzoe/tweeter/blob/master/doc/gif/backtop.gif)
 
 ## Getting Started
 
