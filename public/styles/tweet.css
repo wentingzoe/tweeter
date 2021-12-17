@@ -1,0 +1,123 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* Full tweet box properties (contains the article) */
+
+#allTweets {
+  display: flex;
+  flex-direction: column;
+  margin: 1.5em;
+}
+
+/* Article (header + body + footer) rules and alignment */
+article.tweet {
+  display:flex;
+  flex-direction: column;
+  width:100%;
+  border-style:solid;
+  padding: 5 px;
+  margin-bottom: 1em;
+}
+
+/* Full header properties */
+.tweet-header {
+  display: flex;
+  width: 100%;
+  height: auto;
+  flex-direction: row;
+  justify-content: space-between;
+  background-image: unset;
+  padding: 20px 10px;
+}
+
+/* Avatar styling */
+.avatar {
+  display: flex;
+  max-width:40px;
+  max-height:40px;
+  width: auto;
+  height: auto;
+}
+
+/* Header containers */
+
+/* Div containing image and name */
+.img-name {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left:10px;
+}
+
+/* Spans with name and username */
+.username {
+  display: flex;
+  align-self: center;
+  margin-left: 5px;
+}
+
+/* Username */ 
+.handle{
+  display: flex;
+  flex-direction: row;
+  justify-content:flex-end;
+  height: 10px;
+  font-style: bold;
+  color: lightsteelblue;
+  border-bottom: none;
+  margin-right: 5px;
+  margin-top: 0px;
+}
+
+/* Main tweet body */
+.tweet-content{
+  display: flex;
+  width: 95%;
+  height: auto;
+  border-bottom: solid;
+  margin-top: 0em;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 15px;
+  font-weight: 600;
+  word-break: break-word;
+}
+
+/* Full footer property */
+.tweet-footer {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top:10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  font-size: 15px;
+
+}
+
+/* Timestamp footer with margin above within the footer */
+.timestamp {
+  padding-top: 10px; 
+  padding-left: 5px;
+}
+
+
+/* Hover Effects */
+/* Icons */
+.fa.fa-flag:hover, .fa.fa-retweet:hover, .fa.fa-heart:hover {
+  color: orange;
+}
+
+/* Tweet Box */
+article.tweet:hover{
+  box-shadow: lightsteelblue 5px 5px;
+}

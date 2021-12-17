@@ -1,0 +1,74 @@
+
+ html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* post new tweet_ below 1024px */
+
+/* New Tweet Form */
+.new-tweet {
+  margin: 20px;
+}
+
+#new-tweet-form{
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
+.question {
+  margin: 15px;
+  font-weight: 600;
+}
+#tweet-text {
+  display: flex;
+  background-color: transparent;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  border-bottom: gray 5px;
+  border-style: solid;
+  font-weight: 600;
+  height:65px ;
+  margin: 20px 10px;
+}
+
+/* Form entry area */
+.button-count{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 10px;
+  font-family: 'Bungee', sans-serif;
+}
+
+/* Form button */
+.tweet-button {
+  background-color: #4056A1;
+  color: white;
+  justify-content: space-between;
+}
+.tweet-button:hover {
+  border:0px;
+  background-color: orange;
+}
+
+/* Error */
+.validation-error {
+  color: rgb(255, 132, 0);
+  background-color: rgb(235, 223, 205);
+  border: solid rgb(255, 132, 0) 5px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.validation-error.hidden {
+  height: 0px;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  background-color: transparent;
+}
